@@ -87,9 +87,9 @@ If you want details about private work, I can share architecture and responsibil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuperDoduos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuperDoduos&theme=tokyonight" alt="GitHub Stats" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDoduos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuperDoduos&theme=tokyonight" alt="Top Languages" height="170"/>
 
 <br/><br/>
 
@@ -106,3 +106,4 @@ Not open for commissions yet.
 [![GitHub](https://img.shields.io/badge/-SuperDoduos-181717?style=for-the-badge&logo=github)](https://github.com/SuperDoduos)
 
 </div>
+
