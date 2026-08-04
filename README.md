@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Doduos
 
 ### Software Developer | Web, Tools & Minecraft Infrastructure
@@ -22,6 +22,7 @@ I work across backend systems, web interfaces, desktop automation, and Minecraft
 - CEO and Software Developer at [Zerix Network](https://github.com/ZerixNetwork)
 - Founder and maintainer of [Bridger](https://github.com/ZerixNetwork/Bridger)
 - Designer and developer of [zerix.ml](https://zerix.ml/)
+- Advanced experience with DevOps workflows and VPS administration
 - Interested in backend engineering, developer tooling, and game infrastructure
 
 ## Selected Work
@@ -33,7 +34,7 @@ An open-source desktop application and CLI for converting Minecraft worlds and r
 - Built local previews for `.schematic`, `.schem`, `.nbt`, and `.mcstructure` files.
 - Added interactive textured 3D rendering with Three.js, plus 2D top and layer views.
 - Implemented Java/Bedrock resource-pack conversion with format detection, archive safety limits, conversion reports, and automated tests.
-- Maintain the Electron desktop experience, Java CLI, Gradle build, and cross-platform packaging.
+- Maintain and extend the Electron desktop application, Java CLI, Gradle build system, and cross-platform packaging.
 
 `Java` `JavaScript` `React` `Electron` `Three.js` `Gradle` `NBT`
 
@@ -43,9 +44,9 @@ Development work for a competitive Minecraft Bedrock network, including server-s
 
 `PHP` `PocketMine-MP` `Web development` `Infrastructure`
 
-### Zerixium | Lead Developer
+### Zerixium | Software Developer - Private Production Project
 
-A production-focused PocketMine-MP fork powering Zerix Network. I lead core architecture, protocol support, performance optimization, releases, and technical documentation while preserving compatibility with existing plugins, worlds, and build tooling.
+A production-focused PocketMine-MP fork powering Zerix Network. I work on core architecture, protocol support, performance optimization, releases, and technical documentation while preserving compatibility with existing plugins, worlds, and build tooling.
 
 - Continuously updated for new Minecraft Bedrock releases and protocol changes.
 - Built multi-protocol support so current and older client versions can connect to the same infrastructure.
@@ -71,11 +72,11 @@ Designed and developed the public web presence for Zerix Network, providing a ce
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,php,mysql,py,java,js,nodejs,cpp,kotlin,electron,threejs,gradle,git,githubactions&perline=8" alt="TypeScript, React, PHP, MySQL, Python, Java, JavaScript, Node.js, C++, Kotlin, Electron, Three.js, Gradle, Git, and GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=php,ts,js,react,java,py,cpp,mysql,electron,threejs&perline=5" alt="PHP, TypeScript, JavaScript, React, Java, Python, C++, MySQL, Electron, and Three.js" />
 
 </div>
 
-**Core focus:** backend systems, MySQL databases, PocketMine-MP, Bedrock protocol engineering, desktop tooling, performance, and automated testing.
+**Core focus:** backend systems, MySQL databases, DevOps, VPS administration, PocketMine-MP, Bedrock protocol engineering, desktop tooling, performance, and automated testing.
 
 ---
 
