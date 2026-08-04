@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/167240504?v=4" width="110" alt="Doduos profile picture" />
-
+  
 # Doduos
 
 ### Software Developer | Web, Tools & Minecraft Infrastructure
